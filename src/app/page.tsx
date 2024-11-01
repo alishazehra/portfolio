@@ -3,7 +3,7 @@ import Link from "next/link"
 function Home() {
   return (
     <div className='grid grid-cols-15 grid row'>
-      <div className='bg-red-400'><Link href={"/services"}>Services,</Link>  <Link href="/about">About,</Link>  <Link href={"/contact"}>Contact, </Link> <Link href={"/projects"}>Projects</Link></div>
+      <div className='bg-red-400'> <Link href="/about">About,</Link>  <Link href={"/contact"}>Contact, </Link> <Link href={"/projects"}>Projects</Link></div>
       <div></div>
    <h1>Welcome to my Portfolio!</h1> 
    <div >
