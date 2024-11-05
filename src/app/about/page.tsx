@@ -2,7 +2,7 @@ import React from 'react'
 
 function About() {
   return (
-    <div>
+    <div> &apos
        <h6>
        Hi, I'm Syeda Alisha Zehra! I am a passionate tech enthusiast and educator with a strong foundation in web development. I have expertise in TypeScript, JavaScript, HTML, and CSS, which I use to create engaging and interactive web applications. Currently, I am exploring Next.js and working on various projects.
 
@@ -17,7 +17,7 @@ Thank you for visiting my page, and feel free to connect with me!
 
        </h6>
          
-    </div>
+       &quot </div>
   )
 }
 
